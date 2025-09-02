@@ -1,5 +1,5 @@
-BMP180 sensing - Temperature and Humidity
-Serial plotter + OLED displaying on board
+**BMP180 sensing - Temperature and Humidity**
+*Serial plotter + OLED displaying on board*
 
 The .ino file opens in Arduino IDE.
 
