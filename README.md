@@ -1,3 +1,6 @@
+BMP180 sensing - Temperature and Humidity
+Serial plotter + OLED displaying on board
+
 The .ino file opens in Arduino IDE.
 
 It retrieves data from the board, that uses BMP180 to measure temperature and humidity. Then it shows the information on the Serial plotter and on the OLED display connected to the board.
